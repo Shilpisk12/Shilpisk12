@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shilpisk12
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning B.Tech CSE, 3rd year
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analyst and Web Development Profile
+- 🌱 I’m currently a 4th year B.Tech CSE student and a Data Analyst at Hive.ai  
+- 💞️ I’m looking to collaborate on data science and visulization...
 - 📫 How to reach me shilpisk85@gmail.com
 
 <!---
